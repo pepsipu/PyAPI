@@ -26,10 +26,6 @@ PyAPI is very non-programmer friendly, meaning all you need to is input the data
 
 * **Sammy Hajhamid** - *Code* - [Pepsipu](https://github.com/Pepsipu)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Kenneth Reitz, maker of the "requests" module. Couldn't have done it without you.
