@@ -1,5 +1,5 @@
 # PyAPI
-PyAPI is a REST client out of Python, coded by Sammy Hajhamid (That's me!). It's free for public use but if you want to use if for business and stuff, please contact me and I'd be happy to sort something out with you. It currently is in beta 0.1 (b.1) and supports GET requests, POST requests, and POST requests with one key and value (paramaters). Keep in mind PyAPI is very buggy and in beta, so please report bugs to me! It is command-line based (GUI coming soon) and I'll try to update it as much as I can. Branches are very much welcomed, as you can help grow PyAPI.
+PyAPI is a REST client out of Python, coded by Sammy Hajhamid (That's me!). It's free for public use but if you want to use if for business and stuff, please contact me and I'd be happy to sort something out with you. It currently is in beta 0.1 (b.1) and supports GET requests, POST requests, and POST requests with one key and value (paramaters). It can display the status code and print responses. Keep in mind PyAPI is very buggy and in beta, so please report bugs to me! It is command-line based (GUI coming soon) and I'll try to update it as much as I can. Branches are very much welcomed, as you can help grow PyAPI.
 
 
 ## Getting Started
